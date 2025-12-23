@@ -3,3 +3,5 @@ This project highlights my Excel skills through hands-on analysis of clean, publ
 
 The below link will provide you detailed and honest work skills
 https://docs.google.com/spreadsheets/d/1-UYFEAUkPRoeYNA_3zSIW82t6NgnemsgRn0AXW9i1LQ/edit?usp=sharing
+
+This Excel sheet demonstrates the application of various Excel functions using a clean, publicly available dataset to analyze, organize, and derive meaningful insights.
